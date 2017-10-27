@@ -1,0 +1,115 @@
+{
+  "nick": "FinlandEdits",
+  "accounts": [
+    {
+      "consumer_key": "",
+      "consumer_secret": "",
+      "access_token": "",
+      "access_token_secret": "",
+      "template": "{{{name}}} muokkasi Wikipedia artikkelia {{{page}}} {{&url}}",
+      "ranges": {
+        "Eduskunta": [
+          "217.71.144.227"
+        ],
+        "Ulkoasiain min.": [
+          "194.252.5.66"
+        ],
+        "Biopankki": [
+          "46.30.132.239"
+        ],
+        "Sos. ja terv. min.": [
+          "46.30.132.236"
+        ],
+        "ELY-keskus": [
+          "46.30.132.232"
+        ],
+        "Tukes": [
+          "46.30.132.227"
+        ],
+        "Työ- ja elinkeinomin.": [
+          "46.30.132.224", "46.30.132.219"
+        ],
+        "PRH": [
+          "46.30.132.223"
+        ],
+        "Ympäristölupavirasto": [
+          "46.30.132.221"
+        ],
+        "Opetus ja kulttuuri min.": [
+          "46.30.132.220"
+        ],
+        "Liikenne- ja viestintä min.": [
+          "46.30.132.216", "46.30.132.212"
+        ],
+        "Maa- ja Metsätalous min.": [
+          "46.30.132.210", "46.30.132.206", "46.30.132.200"
+        ],
+        "Evira": [
+          "46.30.132.205"
+        ],
+        "Metsäntutkimuslaitos": [
+          "46.30.132.204"
+        ],
+        "Maaseutuvirasto": [
+          "46.30.132.202"
+        ],
+        "Tike": [
+          "46.30.132.201"
+        ],
+        "Karvi": [
+          "46.30.132.198"
+        ],
+        "Suomen Akatemia": [
+          "46.30.132.192"
+        ],
+        "Celia": [
+          "46.30.132.188"
+        ],
+        "Kotus": [
+          "46.30.132.182"
+        ],
+        "VRK": [
+          "46.30.132.173"
+        ],
+        "VTT": [
+          "46.30.132.172"
+        ],
+        "VERO": [
+          "46.30.132.171"
+        ],
+        "Valtiovarainmin.": [
+          "46.30.132.168"
+        ],
+        "Turvallisuuskomitea": [
+          "46.30.132.162"
+        ],
+        "THL": [
+          "46.30.132.161"
+        ],
+        "KHO": [
+          "46.30.132.148"
+        ],
+        "Eurooppanuoret": [
+          "46.30.132.147"
+        ],
+        "Valtioneuvoston kanslia": [
+          "46.30.132.139"
+        ],
+        "Puolustushallinto": [
+          "46.30.132.130"
+        ],
+        "Valtionkonttori": [
+          "46.30.132.129"
+        ],
+        "?": [
+          "46.30.132.240", "46.30.132.176", "46.30.132.177", "46.30.132.160", "46.30.132.135"
+        ]
+      },
+      "throttle": false,
+      "namespaces": ["article", "file", "media", "main"],
+      "whitelist": {}
+    }
+  ]
+}
+
+
