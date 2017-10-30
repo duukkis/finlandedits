@@ -9,15 +9,15 @@
       "template": "{{{name}}} muokkasi Wikipedia artikkelia {{{page}}} {{&url}}",
       "ranges": {
         "Eduskunta": [
-          "217.71.144.227"
+          "217.71.144.0/16"
         ],
-        "Ulkoasiain min.": [
+        "UM": [
           "194.252.5.66"
         ],
         "Biopankki": [
           "46.30.132.239"
         ],
-        "Sos. ja terv. min.": [
+        "STM": [
           "46.30.132.236"
         ],
         "ELY-keskus": [
@@ -26,7 +26,7 @@
         "Tukes": [
           "46.30.132.227"
         ],
-        "Työ- ja elinkeinomin.": [
+        "TEM": [
           "46.30.132.224", "46.30.132.219"
         ],
         "PRH": [
@@ -35,13 +35,13 @@
         "Ympäristölupavirasto": [
           "46.30.132.221"
         ],
-        "Opetus ja kulttuuri min.": [
+        "OPM": [
           "46.30.132.220"
         ],
-        "Liikenne- ja viestintä min.": [
+        "LVM": [
           "46.30.132.216", "46.30.132.212"
         ],
-        "Maa- ja Metsätalous min.": [
+        "MMM": [
           "46.30.132.210", "46.30.132.206", "46.30.132.200"
         ],
         "Evira": [
@@ -77,7 +77,7 @@
         "VERO": [
           "46.30.132.171"
         ],
-        "Valtiovarainmin.": [
+        "VM": [
           "46.30.132.168"
         ],
         "Turvallisuuskomitea": [
@@ -124,6 +124,15 @@
         ],
         "Suomen ympäristökeskus": [
           "193.166.21.101"
+        ],
+        "Poliisi": [
+          "194.89.24.0/16"
+        ],
+        "Finanssivalvonta": [
+          "156.10.31.100", "156.10.31.101", "156.10.31.102"
+        ],
+        "Kela": [
+          "91.223.107.35"
         ],
         "?": [
           "46.30.132.240", "46.30.132.176", "46.30.132.177", "46.30.132.160", "46.30.132.135"
