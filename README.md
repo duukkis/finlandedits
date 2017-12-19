@@ -6,6 +6,8 @@ Finnish government edits, a twitter bot.
 * Data from Wikipedia edits
 * IP-addresses are in [config.json](config.json)
 
+At the end of config.json there is 5 different ip's that I could not resolve, which agencies they are, but they have made some edits, so I included them also.
+
 THE IP-ADDRESSES COULD BE WRONG. THEY ARE PICKED FROM Wikipedia edit-lists. And referenced with whois data. They are educated guesses. I have validated ip-address with two different ways.
 
 1. whois ip > descr: Valtiokonttori/VIP/Agency name
