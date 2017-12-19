@@ -6,18 +6,18 @@
       "consumer_secret": "",
       "access_token": "",
       "access_token_secret": "",
-      "template": "{{{name}}} muokkasi Wikipedia artikkelia {{{page}}} {{&url}}",
+      "template": "{{{name}}} muokkasi Wikipedia-artikkelia {{{page}}} {{&url}}",
       "ranges": {
         "Eduskunta": [
           "217.71.144.0/24"
         ],
-        "UM": [
+        "Ulkoasiainministeriö": [
           "194.252.5.66"
         ],
         "Biopankki": [
           "46.30.132.239"
         ],
-        "STM": [
+        "Sosiaali- ja terveysministeriö": [
           "46.30.132.236"
         ],
         "ELY-keskus": [
@@ -26,7 +26,7 @@
         "Tukes": [
           "46.30.132.227"
         ],
-        "TEM": [
+        "Työ- ja elinkeinoministerlö": [
           "46.30.132.224", "46.30.132.219"
         ],
         "PRH": [
@@ -35,13 +35,13 @@
         "Ympäristölupavirasto": [
           "46.30.132.221"
         ],
-        "OPM": [
+        "Opetus ja kulttuuriministeriö": [
           "46.30.132.220"
         ],
-        "LVM": [
+        "Liikenne- ja viestintäministeriö": [
           "46.30.132.216", "46.30.132.212"
         ],
-        "MMM": [
+        "Maa- ja Metsätalousministeriö": [
           "46.30.132.210", "46.30.132.206", "46.30.132.200"
         ],
         "Evira": [
@@ -77,7 +77,7 @@
         "VERO": [
           "46.30.132.171"
         ],
-        "VM": [
+        "Valtiovarainministeriö": [
           "46.30.132.168"
         ],
         "Turvallisuuskomitea": [
@@ -125,16 +125,10 @@
         "Suomen ympäristökeskus": [
           "193.166.21.101"
         ],
-        "Poliisi": [
-          "194.89.24.0/24"
+        "Poliisi":[
+          ["194.89.24.30", "194.89.24.60"]
         ],
-        "Finanssivalvonta": [
-          "156.10.31.100", "156.10.31.101", "156.10.31.102"
-        ],
-        "Kela": [
-          "91.223.107.35"
-        ],
-        "?": [
+        "Valtion laitos": [
           "46.30.132.240", "46.30.132.176", "46.30.132.177", "46.30.132.160", "46.30.132.135"
         ]
       },
